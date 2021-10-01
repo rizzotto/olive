@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a simple Achievement 1`] = `
+<div
+  className="makeStyles-container-1"
+  isButton={false}
+  onClick={[Function]}
+  selected={false}
+>
+  <svg>
+    trophy.svg
+  </svg>
+  <div
+    className="makeStyles-content-2"
+  >
+    <div
+      className="makeStyles-title-3"
+    >
+      Complete 
+       receitas
+    </div>
+    <div
+      className="MuiBox-root MuiBox-root-5"
+    >
+      <div
+        className="MuiBox-root MuiBox-root-6"
+      >
+        <div
+          aria-valuemax={100}
+          aria-valuemin={0}
+          aria-valuenow={NaN}
+          className="MuiLinearProgress-root makeStyles-root-4 MuiLinearProgress-colorPrimary MuiLinearProgress-determinate"
+          role="progressbar"
+        >
+          <div
+            className="MuiLinearProgress-bar MuiLinearProgress-barColorPrimary MuiLinearProgress-bar1Determinate"
+            style={
+              Object {
+                "transform": "translateX(NaN%)",
+              }
+            }
+          />
+        </div>
+      </div>
+      <div
+        className="MuiBox-root MuiBox-root-7"
+      >
+        <p
+          className="MuiTypography-root MuiTypography-body2"
+        >
+          NaN/undefined
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;

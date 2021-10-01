@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders TagList 1`] = `
+<div
+  className="makeStyles-root-1 makeStyles-root-2"
+>
+  <div
+    className="makeStyles-root-3 makeStyles-root-4"
+    style={
+      Object {
+        "margin": "5px 3px",
+      }
+    }
+  >
+    test1
+  </div>
+  <div
+    className="makeStyles-root-3 makeStyles-root-5"
+    style={
+      Object {
+        "margin": "5px 3px",
+      }
+    }
+  >
+    test2
+  </div>
+  <div
+    className="makeStyles-root-3 makeStyles-root-6"
+    style={
+      Object {
+        "margin": "5px 3px",
+      }
+    }
+  >
+    test3
+  </div>
+  <div
+    className="makeStyles-root-3 makeStyles-root-7"
+    style={
+      Object {
+        "margin": "5px 3px",
+      }
+    }
+  >
+    test4
+  </div>
+</div>
+`;

@@ -1,0 +1,140 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a simple Card 1`] = `
+<div
+  className="MuiPaper-root MuiCard-root makeStyles-root-1 MuiPaper-elevation1 MuiPaper-rounded"
+>
+  <button
+    className="MuiButtonBase-root MuiCardActionArea-root"
+    disabled={false}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    style={
+      Object {
+        "position": "relative",
+      }
+    }
+    tabIndex={0}
+    type="button"
+  >
+    <div
+      className="makeStyles-tag-6 makeStyles-tag-7"
+    />
+    <img
+      className="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img"
+      src="recipePlaceholder.png"
+      title="Contemplative Reptile"
+    />
+    <div
+      className="MuiCardContent-root makeStyles-content-4"
+    >
+      <h2
+        className="MuiTypography-root MuiTypography-h5"
+        style={
+          Object {
+            "fontWeight": "500",
+          }
+        }
+      />
+    </div>
+    <span
+      className="MuiCardActionArea-focusHighlight"
+    />
+  </button>
+  <div
+    className="MuiCardActions-root makeStyles-actions-5 MuiCardActions-spacing"
+  >
+    <div
+      style={
+        Object {
+          "alignItems": "center",
+          "display": "flex",
+          "justifyContent": "center",
+        }
+      }
+    >
+      <svg>
+        clock.svg
+      </svg>
+      <p
+        className="MuiTypography-root MuiTypography-body1"
+        style={
+          Object {
+            "marginLeft": 8,
+          }
+        }
+      >
+         Min
+      </p>
+    </div>
+    <div
+      style={
+        Object {
+          "alignItems": "center",
+          "display": "flex",
+          "justifyContent": "center",
+        }
+      }
+    >
+      <svg>
+        plate.svg
+      </svg>
+      <p
+        className="MuiTypography-root MuiTypography-body1"
+        style={
+          Object {
+            "marginLeft": 8,
+          }
+        }
+      >
+         porçoes
+      </p>
+    </div>
+    <button
+      aria-expanded={false}
+      aria-label="show more"
+      className="MuiButtonBase-root MuiIconButton-root makeStyles-expand-2"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <span
+        className="MuiIconButton-label"
+      >
+        <svg
+          aria-hidden={true}
+          className="MuiSvgIcon-root"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"
+          />
+        </svg>
+      </span>
+    </button>
+  </div>
+</div>
+`;

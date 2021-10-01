@@ -1,0 +1,143 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Infos /> should render with no props 1`] = `
+<div
+  className="makeStyles-infos-1"
+>
+  <div
+    className="MuiFormControl-root MuiTextField-root makeStyles-inputs-2 MuiFormControl-fullWidth"
+  >
+    <div
+      className="MuiInputBase-root MuiFilledInput-root makeStyles-input-3 MuiInputBase-fullWidth MuiInputBase-formControl"
+      onClick={[Function]}
+    >
+      <input
+        aria-invalid={false}
+        autoFocus={false}
+        className="MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiFilledInput-inputHiddenLabel"
+        disabled={false}
+        min={0}
+        onAnimationStart={[Function]}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        placeholder="60"
+        required={false}
+        rows={1}
+        style={
+          Object {
+            "textAlign": "center",
+          }
+        }
+        type="number"
+      />
+    </div>
+  </div>
+  <span>
+     Minutos 
+  </span>
+  <div
+    className="MuiFormControl-root MuiTextField-root makeStyles-inputs-2 MuiFormControl-fullWidth"
+  >
+    <div
+      className="MuiInputBase-root MuiFilledInput-root makeStyles-input-3 MuiInputBase-fullWidth MuiInputBase-formControl"
+      onClick={[Function]}
+    >
+      <input
+        aria-invalid={false}
+        autoFocus={false}
+        className="MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiFilledInput-inputHiddenLabel"
+        disabled={false}
+        min={0}
+        onAnimationStart={[Function]}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        placeholder="7"
+        required={false}
+        rows={1}
+        style={
+          Object {
+            "textAlign": "center",
+          }
+        }
+        type="number"
+      />
+    </div>
+  </div>
+  <span>
+     Porções 
+  </span>
+</div>
+`;
+
+exports[`<Infos /> should render with props 1`] = `
+<div
+  className="makeStyles-infos-1"
+>
+  <div
+    className="MuiFormControl-root MuiTextField-root makeStyles-inputs-2 MuiFormControl-fullWidth"
+  >
+    <div
+      className="MuiInputBase-root MuiFilledInput-root makeStyles-input-3 MuiInputBase-fullWidth MuiInputBase-formControl"
+      onClick={[Function]}
+    >
+      <input
+        aria-invalid={false}
+        autoFocus={false}
+        className="MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiFilledInput-inputHiddenLabel"
+        disabled={false}
+        min={0}
+        onAnimationStart={[Function]}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        placeholder="60"
+        required={false}
+        rows={1}
+        style={
+          Object {
+            "textAlign": "center",
+          }
+        }
+        type="number"
+      />
+    </div>
+  </div>
+  <span>
+     Minutos 
+  </span>
+  <div
+    className="MuiFormControl-root MuiTextField-root makeStyles-inputs-2 MuiFormControl-fullWidth"
+  >
+    <div
+      className="MuiInputBase-root MuiFilledInput-root makeStyles-input-3 MuiInputBase-fullWidth MuiInputBase-formControl"
+      onClick={[Function]}
+    >
+      <input
+        aria-invalid={false}
+        autoFocus={false}
+        className="MuiInputBase-input MuiFilledInput-input MuiInputBase-inputHiddenLabel MuiFilledInput-inputHiddenLabel"
+        disabled={false}
+        min={0}
+        onAnimationStart={[Function]}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        placeholder="7"
+        required={false}
+        rows={1}
+        style={
+          Object {
+            "textAlign": "center",
+          }
+        }
+        type="number"
+      />
+    </div>
+  </div>
+  <span>
+     Porções 
+  </span>
+</div>
+`;
